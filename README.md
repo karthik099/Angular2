@@ -1,2 +1,2 @@
-# Angular2-Intro
-Angular 2 Training Intro App
+# Angular2
+Angular2 work arounds
